@@ -19,12 +19,12 @@
     },
     {
       "chainId": 324,
-      "address": "0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4",
+      "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
       "decimals": 6,
       "name": "USD Coin",
       "symbol": "USDC",
       "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4/logo.png"
     }
   ],
   "timestamp": "2023-03-29T17:21:43.877Z"
