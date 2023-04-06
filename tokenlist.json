@@ -4,7 +4,7 @@
   "keywords": [],
   "version": {
     "major": 0,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "tokens": [
@@ -25,7 +25,43 @@
       "symbol": "USDC",
       "tags": [],
       "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4/logo.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x7400793aAd94C8CA801aa036357d10F5Fd0ce08f",
+      "decimals": 18,
+      "name": "Binance Coin",
+      "symbol": "BNB",
+      "tags": [],
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x7400793aAd94C8CA801aa036357d10F5Fd0ce08f/logo.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x2039bb4116B4EFc145Ec4f0e2eA75012D6C0f181",
+      "decimals": 18,
+      "name": "Binance USD",
+      "symbol": "BUSD",
+      "tags": [],
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x2039bb4116B4EFc145Ec4f0e2eA75012D6C0f181/logo.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x28a487240e4D45CfF4A2980D334CC933B7483842",
+      "decimals": 18,
+      "name": "Matic Token",
+      "symbol": "MATIC",
+      "tags": [],
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x28a487240e4D45CfF4A2980D334CC933B7483842/logo.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x6A5279E99CA7786fb13F827Fc1Fb4F61684933d6",
+      "decimals": 18,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "tags": [],
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x6A5279E99CA7786fb13F827Fc1Fb4F61684933d6/logo.png"
     }
   ],
-  "timestamp": "2023-03-29T17:21:43.877Z"
+  "timestamp": "2023-04-06T17:37:36.530Z"
 }
