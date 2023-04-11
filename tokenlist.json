@@ -4,7 +4,7 @@
   "keywords": [],
   "version": {
     "major": 0,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "tokens": [
@@ -30,8 +30,8 @@
       "chainId": 324,
       "address": "0x7400793aAd94C8CA801aa036357d10F5Fd0ce08f",
       "decimals": 18,
-      "name": "Binance Coin",
-      "symbol": "BNB",
+      "name": "Celer Network BNB",
+      "symbol": "cBNB",
       "tags": [],
       "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x7400793aAd94C8CA801aa036357d10F5Fd0ce08f/logo.png"
     },
@@ -39,8 +39,8 @@
       "chainId": 324,
       "address": "0x2039bb4116B4EFc145Ec4f0e2eA75012D6C0f181",
       "decimals": 18,
-      "name": "Binance USD",
-      "symbol": "BUSD",
+      "name": "Celer Network BUSD",
+      "symbol": "cBUSD",
       "tags": [],
       "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x2039bb4116B4EFc145Ec4f0e2eA75012D6C0f181/logo.png"
     },
@@ -48,8 +48,8 @@
       "chainId": 324,
       "address": "0x28a487240e4D45CfF4A2980D334CC933B7483842",
       "decimals": 18,
-      "name": "Matic Token",
-      "symbol": "MATIC",
+      "name": "Celer Network MATIC",
+      "symbol": "cMATIC",
       "tags": [],
       "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x28a487240e4D45CfF4A2980D334CC933B7483842/logo.png"
     },
@@ -57,11 +57,11 @@
       "chainId": 324,
       "address": "0x6A5279E99CA7786fb13F827Fc1Fb4F61684933d6",
       "decimals": 18,
-      "name": "Avalanche",
-      "symbol": "AVAX",
+      "name": "Celer Network AVAX",
+      "symbol": "cAVAX",
       "tags": [],
       "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x6A5279E99CA7786fb13F827Fc1Fb4F61684933d6/logo.png"
     }
   ],
-  "timestamp": "2023-04-06T17:37:36.530Z"
+  "timestamp": "2023-04-11T15:27:49.925Z"
 }
