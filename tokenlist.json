@@ -4,7 +4,7 @@
   "keywords": [],
   "version": {
     "major": 0,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "tokens": [
@@ -61,7 +61,16 @@
       "symbol": "cAVAX",
       "tags": [],
       "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x6A5279E99CA7786fb13F827Fc1Fb4F61684933d6/logo.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0xeE1E88eb20bECDebE1e88f50C9f8b1d72478f2d0",
+      "decimals": 18,
+      "name": "UniDex",
+      "symbol": "UNIDX",
+      "tags": [],
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0xeE1E88eb20bECDebE1e88f50C9f8b1d72478f2d0/logo.png"
     }
   ],
-  "timestamp": "2023-04-11T15:27:49.925Z"
+  "timestamp": "2023-04-20T07:59:01.005Z"
 }
