@@ -4,7 +4,7 @@
   "keywords": [],
   "version": {
     "major": 0,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
   "tokens": [
@@ -70,7 +70,16 @@
       "symbol": "UNIDX",
       "tags": [],
       "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0xeE1E88eb20bECDebE1e88f50C9f8b1d72478f2d0/logo.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x6068AD384b4d330d4De77F47041885956c9F32a3",
+      "decimals": 18,
+      "name": "Array",
+      "symbol": "Array",
+      "tags": [],
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x6068AD384b4d330d4De77F47041885956c9F32a3/logo.png"
     }
   ],
-  "timestamp": "2023-04-20T07:59:01.005Z"
+  "timestamp": "2023-04-20T14:44:27.504Z"
 }
