@@ -4,7 +4,7 @@
   "keywords": [],
   "version": {
     "major": 0,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   },
   "tokens": [
@@ -97,7 +97,16 @@
       "symbol": "ATOM",
       "tags": [],
       "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x15932E26f5BD4923d46a2b205191C4b5d5f43FE3/logo.png"
+    },
+    {
+      "chainId": 2222,
+      "address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
+      "decimals": 6,
+      "name": "Wagmi",
+      "symbol": "WAGMI",
+      "tags": [],
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
     }
   ],
-  "timestamp": "2023-09-13T10:49:23.993Z"
+  "timestamp": "2023-09-13T10:55:24.179Z"
 }
