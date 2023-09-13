@@ -4,7 +4,7 @@
   "keywords": [],
   "version": {
     "major": 0,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   },
   "tokens": [
@@ -79,7 +79,8 @@
       "symbol": "Array",
       "tags": [],
       "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x6068AD384b4d330d4De77F47041885956c9F32a3/logo.png"
-    },{
+    },
+    {
       "chainId": 324,
       "address": "0x7b3e1236c39ddD2e61cF6Da6ac6D11193238ccB0",
       "decimals": 18,
@@ -87,7 +88,16 @@
       "symbol": "ZKE",
       "tags": [],
       "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x7b3e1236c39ddD2e61cF6Da6ac6D11193238ccB0/logo.png"
+    },
+    {
+      "chainId": 2222,
+      "address": "0x15932E26f5BD4923d46a2b205191C4b5d5f43FE3",
+      "decimals": 6,
+      "name": "ATOM",
+      "symbol": "ATOM",
+      "tags": [],
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x15932E26f5BD4923d46a2b205191C4b5d5f43FE3/logo.png"
     }
   ],
-  "timestamp": "2023-08-10T12:27:00.190Z"
+  "timestamp": "2023-09-13T10:49:23.993Z"
 }
