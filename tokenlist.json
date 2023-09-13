@@ -4,7 +4,7 @@
   "keywords": [],
   "version": {
     "major": 0,
-    "minor": 9,
+    "minor": 10,
     "patch": 0
   },
   "tokens": [
@@ -101,7 +101,7 @@
     {
       "chainId": 2222,
       "address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
-      "decimals": 6,
+      "decimals": 18,
       "name": "Wagmi",
       "symbol": "WAGMI",
       "tags": [],
