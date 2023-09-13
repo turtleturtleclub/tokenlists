@@ -4,7 +4,7 @@
   "keywords": [],
   "version": {
     "major": 0,
-    "minor": 8,
+    "minor": 9,
     "patch": 0
   },
   "tokens": [
@@ -106,7 +106,16 @@
       "symbol": "WAGMI",
       "tags": [],
       "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
+    },
+    {
+      "chainId": 2222,
+      "address": "0x471EE749bA270eb4c1165B5AD95E614947f6fCeb",
+      "decimals": 18,
+      "name": "Magic Internet Money",
+      "symbol": "MIM",
+      "tags": [],
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x471EE749bA270eb4c1165B5AD95E614947f6fCeb/logo.png"
     }
   ],
-  "timestamp": "2023-09-13T10:55:24.179Z"
+  "timestamp": "2023-09-13T11:32:03.281Z"
 }
