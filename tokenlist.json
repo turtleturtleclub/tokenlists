@@ -4,7 +4,7 @@
   "keywords": [],
   "version": {
     "major": 0,
-    "minor": 11,
+    "minor": 12,
     "patch": 0
   },
   "tokens": [
@@ -15,7 +15,7 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91/logo.png"
     },
     {
       "chainId": 324,
@@ -24,7 +24,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4/logo.png"
     },
     {
       "chainId": 324,
@@ -33,7 +33,7 @@
       "name": "Celer Network BNB",
       "symbol": "cBNB",
       "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x7400793aAd94C8CA801aa036357d10F5Fd0ce08f/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0x7400793aAd94C8CA801aa036357d10F5Fd0ce08f/logo.png"
     },
     {
       "chainId": 324,
@@ -42,7 +42,7 @@
       "name": "Celer Network BUSD",
       "symbol": "cBUSD",
       "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x2039bb4116B4EFc145Ec4f0e2eA75012D6C0f181/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0x2039bb4116B4EFc145Ec4f0e2eA75012D6C0f181/logo.png"
     },
     {
       "chainId": 324,
@@ -51,7 +51,7 @@
       "name": "Celer Network MATIC",
       "symbol": "cMATIC",
       "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x28a487240e4D45CfF4A2980D334CC933B7483842/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0x28a487240e4D45CfF4A2980D334CC933B7483842/logo.png"
     },
     {
       "chainId": 324,
@@ -60,7 +60,7 @@
       "name": "Celer Network AVAX",
       "symbol": "cAVAX",
       "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x6A5279E99CA7786fb13F827Fc1Fb4F61684933d6/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0x6A5279E99CA7786fb13F827Fc1Fb4F61684933d6/logo.png"
     },
     {
       "chainId": 324,
@@ -69,7 +69,7 @@
       "name": "UniDex",
       "symbol": "UNIDX",
       "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0xeE1E88eb20bECDebE1e88f50C9f8b1d72478f2d0/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0xeE1E88eb20bECDebE1e88f50C9f8b1d72478f2d0/logo.png"
     },
     {
       "chainId": 324,
@@ -78,7 +78,7 @@
       "name": "Array",
       "symbol": "Array",
       "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x6068AD384b4d330d4De77F47041885956c9F32a3/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0x6068AD384b4d330d4De77F47041885956c9F32a3/logo.png"
     },
     {
       "chainId": 324,
@@ -87,7 +87,7 @@
       "name": "ZKE",
       "symbol": "ZKE",
       "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x7b3e1236c39ddD2e61cF6Da6ac6D11193238ccB0/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0x7b3e1236c39ddD2e61cF6Da6ac6D11193238ccB0/logo.png"
     },
     {
       "chainId": 2222,
@@ -96,7 +96,7 @@
       "name": "ATOM",
       "symbol": "ATOM",
       "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x15932E26f5BD4923d46a2b205191C4b5d5f43FE3/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0x15932E26f5BD4923d46a2b205191C4b5d5f43FE3/logo.png"
     },
     {
       "chainId": 2222,
@@ -105,7 +105,7 @@
       "name": "Wagmi",
       "symbol": "WAGMI",
       "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
     },
     {
       "chainId": 2222,
@@ -114,7 +114,7 @@
       "name": "Magic Internet Money",
       "symbol": "MIM",
       "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x471EE749bA270eb4c1165B5AD95E614947f6fCeb/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0x471EE749bA270eb4c1165B5AD95E614947f6fCeb/logo.png"
     },
     {
       "chainId": 1,
@@ -123,8 +123,71 @@
       "name": "Wagmi",
       "symbol": "WAGMI",
       "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x92CC36D66e9d739D50673d1f27929a371FB83a67/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/1/0x92CC36D66e9d739D50673d1f27929a371FB83a67/logo.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
+      "decimals": 18,
+      "name": "Wagmi",
+      "symbol": "WAGMI",
+      "tags": [],
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/10/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
+      "decimals": 18,
+      "name": "Wagmi",
+      "symbol": "WAGMI",
+      "tags": [],
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/56/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x07Ed33a242BD9C08CA3C198e01189e35265024Da",
+      "decimals": 18,
+      "name": "Wagmi",
+      "symbol": "WAGMI",
+      "tags": [],
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/137/0x07Ed33a242BD9C08CA3C198e01189e35265024Da/logo.png"
+    },
+    {
+      "chainId": 250,
+      "address": "0xb1F795776cB9DdAC6E7e162f31C7419Dd3d48297",
+      "decimals": 18,
+      "name": "Wagmi",
+      "symbol": "WAGMI",
+      "tags": [],
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/250/0xb1F795776cB9DdAC6E7e162f31C7419Dd3d48297/logo.png"
+    },
+    {
+      "chainId": 324,
+      "address": "0x3613AD277DF1d5935D41400A181Aa9ec1DC2Dc9e",
+      "decimals": 18,
+      "name": "Wagmi",
+      "symbol": "WAGMI",
+      "tags": [],
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0x3613AD277DF1d5935D41400A181Aa9ec1DC2Dc9e/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
+      "decimals": 18,
+      "name": "Wagmi",
+      "symbol": "WAGMI",
+      "tags": [],
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/43114/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
+      "decimals": 18,
+      "name": "Wagmi",
+      "symbol": "WAGMI",
+      "tags": [],
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/42161/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
     }
   ],
-  "timestamp": "2023-09-29T10:04:40.041Z"
+  "timestamp": "2023-10-02T12:10:40.882Z"
 }
