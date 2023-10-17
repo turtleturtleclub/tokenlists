@@ -187,6 +187,15 @@
       "symbol": "WAGMI",
       "tags": [],
       "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/42161/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
+    },
+        {
+      "chainId": 2222,
+      "address": "0x851feE47C6588506277c439A7526aE58cD1d15e5",
+      "decimals": 18,
+      "name": "Valhalla DAO",
+      "symbol": "ODIN",
+      "tags": [],
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0x851feE47C6588506277c439A7526aE58cD1d15e5/logo.png"
     }
   ],
   "timestamp": "2023-10-02T12:10:40.882Z"
