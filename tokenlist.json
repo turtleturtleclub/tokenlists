@@ -4,7 +4,7 @@
   "keywords": [],
   "version": {
     "major": 0,
-    "minor": 12,
+    "minor": 13,
     "patch": 0
   },
   "tokens": [
@@ -188,7 +188,7 @@
       "tags": [],
       "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/42161/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
     },
-        {
+    {
       "chainId": 2222,
       "address": "0x851feE47C6588506277c439A7526aE58cD1d15e5",
       "decimals": 18,
@@ -196,7 +196,16 @@
       "symbol": "ODIN",
       "tags": [],
       "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0x851feE47C6588506277c439A7526aE58cD1d15e5/logo.png"
+    },
+    {
+      "chainId": 2222,
+      "address": "0x9d9682577CA889c882412056669bd936894663fd",
+      "decimals": 18,
+      "name": "Lockless Staked-Wrapped KAVA",
+      "symbol": "SWKAVA",
+      "tags": [],
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0x9d9682577CA889c882412056669bd936894663fd/logo.png"
     }
   ],
-  "timestamp": "2023-10-02T12:10:40.882Z"
+  "timestamp": "2023-10-17T10:02:45.018Z"
 }
