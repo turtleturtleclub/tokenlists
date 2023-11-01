@@ -4,7 +4,7 @@
   "keywords": [],
   "version": {
     "major": 0,
-    "minor": 15,
+    "minor": 16,
     "patch": 0
   },
   "tokens": [
@@ -227,7 +227,7 @@
     {
       "chainId": 2222,
       "address": "0x919c1c267bc06a7039e03fcc2ef738525769109c",
-      "decimals": 18,
+      "decimals": 6,
       "name": "TetherUSDt",
       "symbol": "USDt",
       "tags": [],
@@ -236,12 +236,12 @@
     {
       "chainId": 2222,
       "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
-      "decimals": 18,
+      "decimals": 6,
       "name": "USD Coin",
       "symbol": "USDC",
       "tags": [],
       "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0xfa9343c3897324496a05fc75abed6bac29f8a40f/logo.png"
     }
   ],
-  "timestamp": "2023-11-01T11:20:11.657Z"
+  "timestamp": "2023-11-01T12:02:07.562Z"
 }
