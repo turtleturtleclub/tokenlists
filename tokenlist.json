@@ -4,7 +4,7 @@
   "keywords": [],
   "version": {
     "major": 0,
-    "minor": 14,
+    "minor": 15,
     "patch": 0
   },
   "tokens": [
@@ -214,7 +214,34 @@
       "symbol": "WETH",
       "tags": [],
       "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0x2DfD4dE5AE386Cd3f4fC8e2cb39240852E47F5E8/logo.png"
+    },
+    {
+      "chainId": 2222,
+      "address": "0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b",
+      "decimals": 18,
+      "name": "Wrapped Kava",
+      "symbol": "WKAVA",
+      "tags": [],
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b/logo.png"
+    },
+    {
+      "chainId": 2222,
+      "address": "0x919c1c267bc06a7039e03fcc2ef738525769109c",
+      "decimals": 18,
+      "name": "TetherUSDt",
+      "symbol": "USDt",
+      "tags": [],
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0x919c1c267bc06a7039e03fcc2ef738525769109c/logo.png"
+    },
+    {
+      "chainId": 2222,
+      "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
+      "decimals": 18,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "tags": [],
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0xfa9343c3897324496a05fc75abed6bac29f8a40f/logo.png"
     }
   ],
-  "timestamp": "2023-11-01T09:41:31.941Z"
+  "timestamp": "2023-11-01T11:20:11.657Z"
 }
