@@ -4,7 +4,7 @@
   "keywords": [],
   "version": {
     "major": 0,
-    "minor": 13,
+    "minor": 14,
     "patch": 0
   },
   "tokens": [
@@ -205,7 +205,16 @@
       "symbol": "SWKAVA",
       "tags": [],
       "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0x9d9682577CA889c882412056669bd936894663fd/logo.png"
+    },
+    {
+      "chainId": 2222,
+      "address": "0x2DfD4dE5AE386Cd3f4fC8e2cb39240852E47F5E8",
+      "decimals": 18,
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "tags": [],
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0x2DfD4dE5AE386Cd3f4fC8e2cb39240852E47F5E8/logo.png"
     }
   ],
-  "timestamp": "2023-10-17T10:02:45.018Z"
+  "timestamp": "2023-11-01T09:41:31.941Z"
 }
