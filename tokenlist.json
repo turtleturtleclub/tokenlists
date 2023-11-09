@@ -226,12 +226,12 @@
     },
     {
       "chainId": 2222,
-      "address": "0x919c1c267bc06a7039e03fcc2ef738525769109c",
+      "address": "0x919C1c267BC06a7039e03fcc2eF738525769109c",
       "decimals": 6,
       "name": "TetherUSDt",
       "symbol": "USDt",
       "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0x919c1c267bc06a7039e03fcc2ef738525769109c/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0x919C1c267BC06a7039e03fcc2eF738525769109c/logo.png"
     },
     {
       "chainId": 2222,
