@@ -4,7 +4,7 @@
   "keywords": [],
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tokens": [
@@ -241,7 +241,16 @@
       "symbol": "USDC",
       "tags": [],
       "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0xfa9343c3897324496a05fc75abed6bac29f8a40f/logo.png"
+    },
+    {
+      "chainId": 2222,
+      "address": "0xB9228F75facb15Cd23F04C44850dC0Cb51863a30",
+      "decimals": 18,
+      "name": "TUCKER",
+      "symbol": "TUCK",
+      "tags": [],
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0xB9228F75facb15Cd23F04C44850dC0Cb51863a30/logo.png"
     }
   ],
-  "timestamp": "2023-11-01T12:02:07.562Z"
+  "timestamp": "2023-12-14T10:35:18.724Z"
 }
