@@ -1,0 +1,19 @@
+{
+  "name": "tokenlists",
+  "version": "1.0.0",
+  "description": "Tokenlists for the Wagmi.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Wagmi",
+  "license": "ISC",
+  "scripts": {
+    "update": "node scripts/update-list.js"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.4"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "viem": "^1.20.0"
+  }
+}
