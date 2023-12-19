@@ -1,5 +1,5 @@
 const axios = require('axios').default;
-const { readFileSync, writeFileSync, mkdirSync, existsSync, writeFile } = require('fs');
+const { readFileSync, writeFileSync, mkdirSync, existsSync } = require('fs');
 const { isAddress, getAddress } = require('viem');
 const { join } = require('path');
 const { ChainId } = require('@real-wagmi/sdk');
@@ -14,7 +14,8 @@ const lists = [
     "https://static.optimism.io/optimism.tokenlist.json",
     "https://bridge.arbitrum.io/token-list-42161.json",
     "https://raw.githubusercontent.com/plasmadlt/plasma-finance-token-list/master/bnb.json",
-    "https://www.coingecko.com/tokens_list/avalanche/all/latest.json"
+    "https://www.coingecko.com/tokens_list/avalanche/all/latest.json",
+    "https://tokens.coingecko.com/metis-andromeda/all.json"
 ]
 
 const downloadImage = false;
@@ -41,14 +42,21 @@ async function bootstrap(){
                             }
                             console.log(`new token incoming ${token.chainId} | ${incomingTokenAddress} | ${token.symbol}`);
                             if(downloadImage){
-                                mkdirSync(join(__dirname, `../logos/${token.chainId}/${incomingTokenAddress}/`));
+                                const logoFolderExist = existsSync(join(__dirname, `../logos/${token.chainId}/${incomingTokenAddress}/`));
+                                if(!logoFolderExist){
+                                    mkdirSync(join(__dirname, `../logos/${token.chainId}/${incomingTokenAddress}/`));
+                                }
                                 const response = await axios.get(token.logoURI, { responseType: "arraybuffer" });
-                                writeFile(join(__dirname, `../logos/${token.chainId}/${incomingTokenAddress}/logo.png`), response.data);
+                                writeFileSync(join(__dirname, `../logos/${token.chainId}/${incomingTokenAddress}/logo.png`), response.data);
                             }
 
                             defaultList.tokens.push({
-                                ...token,
+                                chainId: token.chainId,
                                 address: incomingTokenAddress,
+                                decimals: token.decimals,
+                                name: token.name,
+                                symbol: token.symbol,
+                                tags: [],
                                 logoURI: downloadImage ? `https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/${token.chainId}/${incomingTokenAddress}/logo.png`: token.logoURI
                             });
                         }

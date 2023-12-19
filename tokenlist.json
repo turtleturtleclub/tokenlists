@@ -1,256 +1,553 @@
 {
-  "name": "Wagmi Default",
-  "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91/logo.png",
-  "keywords": [],
-  "version": {
-    "major": 2,
-    "minor": 0,
-    "patch": 0
-  },
-  "tokens": [
-    {
-      "chainId": 324,
-      "address": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
-      "decimals": 18,
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91/logo.png"
+    "name": "Wagmi Default",
+    "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91/logo.png",
+    "keywords": [],
+    "version": {
+        "major": 2,
+        "minor": 1,
+        "patch": 0
     },
-    {
-      "chainId": 324,
-      "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
-      "decimals": 6,
-      "name": "USD Coin",
-      "symbol": "USDC",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4/logo.png"
-    },
-    {
-      "chainId": 324,
-      "address": "0x7400793aAd94C8CA801aa036357d10F5Fd0ce08f",
-      "decimals": 18,
-      "name": "Celer Network BNB",
-      "symbol": "cBNB",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0x7400793aAd94C8CA801aa036357d10F5Fd0ce08f/logo.png"
-    },
-    {
-      "chainId": 324,
-      "address": "0x2039bb4116B4EFc145Ec4f0e2eA75012D6C0f181",
-      "decimals": 18,
-      "name": "Celer Network BUSD",
-      "symbol": "cBUSD",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0x2039bb4116B4EFc145Ec4f0e2eA75012D6C0f181/logo.png"
-    },
-    {
-      "chainId": 324,
-      "address": "0x28a487240e4D45CfF4A2980D334CC933B7483842",
-      "decimals": 18,
-      "name": "Celer Network MATIC",
-      "symbol": "cMATIC",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0x28a487240e4D45CfF4A2980D334CC933B7483842/logo.png"
-    },
-    {
-      "chainId": 324,
-      "address": "0x6A5279E99CA7786fb13F827Fc1Fb4F61684933d6",
-      "decimals": 18,
-      "name": "Celer Network AVAX",
-      "symbol": "cAVAX",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0x6A5279E99CA7786fb13F827Fc1Fb4F61684933d6/logo.png"
-    },
-    {
-      "chainId": 324,
-      "address": "0xeE1E88eb20bECDebE1e88f50C9f8b1d72478f2d0",
-      "decimals": 18,
-      "name": "UniDex",
-      "symbol": "UNIDX",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0xeE1E88eb20bECDebE1e88f50C9f8b1d72478f2d0/logo.png"
-    },
-    {
-      "chainId": 324,
-      "address": "0x6068AD384b4d330d4De77F47041885956c9F32a3",
-      "decimals": 18,
-      "name": "Array",
-      "symbol": "Array",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0x6068AD384b4d330d4De77F47041885956c9F32a3/logo.png"
-    },
-    {
-      "chainId": 324,
-      "address": "0x7b3e1236c39ddD2e61cF6Da6ac6D11193238ccB0",
-      "decimals": 18,
-      "name": "ZKE",
-      "symbol": "ZKE",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0x7b3e1236c39ddD2e61cF6Da6ac6D11193238ccB0/logo.png"
-    },
-    {
-      "chainId": 2222,
-      "address": "0x15932E26f5BD4923d46a2b205191C4b5d5f43FE3",
-      "decimals": 6,
-      "name": "ATOM",
-      "symbol": "ATOM",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0x15932E26f5BD4923d46a2b205191C4b5d5f43FE3/logo.png"
-    },
-    {
-      "chainId": 2222,
-      "address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
-      "decimals": 18,
-      "name": "Wagmi",
-      "symbol": "WAGMI",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
-    },
-    {
-      "chainId": 2222,
-      "address": "0x471EE749bA270eb4c1165B5AD95E614947f6fCeb",
-      "decimals": 18,
-      "name": "Magic Internet Money",
-      "symbol": "MIM",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0x471EE749bA270eb4c1165B5AD95E614947f6fCeb/logo.png"
-    },
-    {
-      "chainId": 1,
-      "address": "0x92CC36D66e9d739D50673d1f27929a371FB83a67",
-      "decimals": 18,
-      "name": "Wagmi",
-      "symbol": "WAGMI",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/1/0x92CC36D66e9d739D50673d1f27929a371FB83a67/logo.png"
-    },
-    {
-      "chainId": 10,
-      "address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
-      "decimals": 18,
-      "name": "Wagmi",
-      "symbol": "WAGMI",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/10/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
-    },
-    {
-      "chainId": 56,
-      "address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
-      "decimals": 18,
-      "name": "Wagmi",
-      "symbol": "WAGMI",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/56/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x07Ed33a242BD9C08CA3C198e01189e35265024Da",
-      "decimals": 18,
-      "name": "Wagmi",
-      "symbol": "WAGMI",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/137/0x07Ed33a242BD9C08CA3C198e01189e35265024Da/logo.png"
-    },
-    {
-      "chainId": 250,
-      "address": "0xb1F795776cB9DdAC6E7e162f31C7419Dd3d48297",
-      "decimals": 18,
-      "name": "Wagmi",
-      "symbol": "WAGMI",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/250/0xb1F795776cB9DdAC6E7e162f31C7419Dd3d48297/logo.png"
-    },
-    {
-      "chainId": 324,
-      "address": "0x3613AD277DF1d5935D41400A181Aa9ec1DC2Dc9e",
-      "decimals": 18,
-      "name": "Wagmi",
-      "symbol": "WAGMI",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0x3613AD277DF1d5935D41400A181Aa9ec1DC2Dc9e/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
-      "decimals": 18,
-      "name": "Wagmi",
-      "symbol": "WAGMI",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/43114/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
-    },
-    {
-      "chainId": 42161,
-      "address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
-      "decimals": 18,
-      "name": "Wagmi",
-      "symbol": "WAGMI",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/42161/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
-    },
-    {
-      "chainId": 2222,
-      "address": "0x851feE47C6588506277c439A7526aE58cD1d15e5",
-      "decimals": 18,
-      "name": "Valhalla DAO",
-      "symbol": "ODIN",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0x851feE47C6588506277c439A7526aE58cD1d15e5/logo.png"
-    },
-    {
-      "chainId": 2222,
-      "address": "0x9d9682577CA889c882412056669bd936894663fd",
-      "decimals": 18,
-      "name": "Lockless Staked-Wrapped KAVA",
-      "symbol": "SWKAVA",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0x9d9682577CA889c882412056669bd936894663fd/logo.png"
-    },
-    {
-      "chainId": 2222,
-      "address": "0x2DfD4dE5AE386Cd3f4fC8e2cb39240852E47F5E8",
-      "decimals": 18,
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0x2DfD4dE5AE386Cd3f4fC8e2cb39240852E47F5E8/logo.png"
-    },
-    {
-      "chainId": 2222,
-      "address": "0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b",
-      "decimals": 18,
-      "name": "Wrapped Kava",
-      "symbol": "WKAVA",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b/logo.png"
-    },
-    {
-      "chainId": 2222,
-      "address": "0x919C1c267BC06a7039e03fcc2eF738525769109c",
-      "decimals": 6,
-      "name": "TetherUSDt",
-      "symbol": "USDt",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0x919C1c267BC06a7039e03fcc2eF738525769109c/logo.png"
-    },
-    {
-      "chainId": 2222,
-      "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
-      "decimals": 6,
-      "name": "USD Coin",
-      "symbol": "USDC",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0xfa9343c3897324496a05fc75abed6bac29f8a40f/logo.png"
-    },
-    {
-      "chainId": 2222,
-      "address": "0xB9228F75facb15Cd23F04C44850dC0Cb51863a30",
-      "decimals": 18,
-      "name": "TUCKER",
-      "symbol": "TUCK",
-      "tags": [],
-      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0xB9228F75facb15Cd23F04C44850dC0Cb51863a30/logo.png"
-    }
-  ],
-  "timestamp": "2023-12-14T22:48:57.814Z"
+    "tokens": [
+        {
+            "chainId": 324,
+            "address": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
+            "decimals": 18,
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91/logo.png"
+        },
+        {
+            "chainId": 324,
+            "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
+            "decimals": 6,
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4/logo.png"
+        },
+        {
+            "chainId": 324,
+            "address": "0x7400793aAd94C8CA801aa036357d10F5Fd0ce08f",
+            "decimals": 18,
+            "name": "Celer Network BNB",
+            "symbol": "cBNB",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0x7400793aAd94C8CA801aa036357d10F5Fd0ce08f/logo.png"
+        },
+        {
+            "chainId": 324,
+            "address": "0x2039bb4116B4EFc145Ec4f0e2eA75012D6C0f181",
+            "decimals": 18,
+            "name": "Celer Network BUSD",
+            "symbol": "cBUSD",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0x2039bb4116B4EFc145Ec4f0e2eA75012D6C0f181/logo.png"
+        },
+        {
+            "chainId": 324,
+            "address": "0x28a487240e4D45CfF4A2980D334CC933B7483842",
+            "decimals": 18,
+            "name": "Celer Network MATIC",
+            "symbol": "cMATIC",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0x28a487240e4D45CfF4A2980D334CC933B7483842/logo.png"
+        },
+        {
+            "chainId": 324,
+            "address": "0x6A5279E99CA7786fb13F827Fc1Fb4F61684933d6",
+            "decimals": 18,
+            "name": "Celer Network AVAX",
+            "symbol": "cAVAX",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0x6A5279E99CA7786fb13F827Fc1Fb4F61684933d6/logo.png"
+        },
+        {
+            "chainId": 324,
+            "address": "0xeE1E88eb20bECDebE1e88f50C9f8b1d72478f2d0",
+            "decimals": 18,
+            "name": "UniDex",
+            "symbol": "UNIDX",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0xeE1E88eb20bECDebE1e88f50C9f8b1d72478f2d0/logo.png"
+        },
+        {
+            "chainId": 324,
+            "address": "0x6068AD384b4d330d4De77F47041885956c9F32a3",
+            "decimals": 18,
+            "name": "Array",
+            "symbol": "Array",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0x6068AD384b4d330d4De77F47041885956c9F32a3/logo.png"
+        },
+        {
+            "chainId": 324,
+            "address": "0x7b3e1236c39ddD2e61cF6Da6ac6D11193238ccB0",
+            "decimals": 18,
+            "name": "ZKE",
+            "symbol": "ZKE",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0x7b3e1236c39ddD2e61cF6Da6ac6D11193238ccB0/logo.png"
+        },
+        {
+            "chainId": 2222,
+            "address": "0x15932E26f5BD4923d46a2b205191C4b5d5f43FE3",
+            "decimals": 6,
+            "name": "ATOM",
+            "symbol": "ATOM",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0x15932E26f5BD4923d46a2b205191C4b5d5f43FE3/logo.png"
+        },
+        {
+            "chainId": 2222,
+            "address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
+            "decimals": 18,
+            "name": "Wagmi",
+            "symbol": "WAGMI",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
+        },
+        {
+            "chainId": 2222,
+            "address": "0x471EE749bA270eb4c1165B5AD95E614947f6fCeb",
+            "decimals": 18,
+            "name": "Magic Internet Money",
+            "symbol": "MIM",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0x471EE749bA270eb4c1165B5AD95E614947f6fCeb/logo.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x92CC36D66e9d739D50673d1f27929a371FB83a67",
+            "decimals": 18,
+            "name": "Wagmi",
+            "symbol": "WAGMI",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/1/0x92CC36D66e9d739D50673d1f27929a371FB83a67/logo.png"
+        },
+        {
+            "chainId": 10,
+            "address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
+            "decimals": 18,
+            "name": "Wagmi",
+            "symbol": "WAGMI",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/10/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
+        },
+        {
+            "chainId": 56,
+            "address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
+            "decimals": 18,
+            "name": "Wagmi",
+            "symbol": "WAGMI",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/56/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x07Ed33a242BD9C08CA3C198e01189e35265024Da",
+            "decimals": 18,
+            "name": "Wagmi",
+            "symbol": "WAGMI",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/137/0x07Ed33a242BD9C08CA3C198e01189e35265024Da/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0xb1F795776cB9DdAC6E7e162f31C7419Dd3d48297",
+            "decimals": 18,
+            "name": "Wagmi",
+            "symbol": "WAGMI",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/250/0xb1F795776cB9DdAC6E7e162f31C7419Dd3d48297/logo.png"
+        },
+        {
+            "chainId": 324,
+            "address": "0x3613AD277DF1d5935D41400A181Aa9ec1DC2Dc9e",
+            "decimals": 18,
+            "name": "Wagmi",
+            "symbol": "WAGMI",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0x3613AD277DF1d5935D41400A181Aa9ec1DC2Dc9e/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
+            "decimals": 18,
+            "name": "Wagmi",
+            "symbol": "WAGMI",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/43114/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
+            "decimals": 18,
+            "name": "Wagmi",
+            "symbol": "WAGMI",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/42161/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
+        },
+        {
+            "chainId": 2222,
+            "address": "0x851feE47C6588506277c439A7526aE58cD1d15e5",
+            "decimals": 18,
+            "name": "Valhalla DAO",
+            "symbol": "ODIN",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0x851feE47C6588506277c439A7526aE58cD1d15e5/logo.png"
+        },
+        {
+            "chainId": 2222,
+            "address": "0x9d9682577CA889c882412056669bd936894663fd",
+            "decimals": 18,
+            "name": "Lockless Staked-Wrapped KAVA",
+            "symbol": "SWKAVA",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0x9d9682577CA889c882412056669bd936894663fd/logo.png"
+        },
+        {
+            "chainId": 2222,
+            "address": "0x2DfD4dE5AE386Cd3f4fC8e2cb39240852E47F5E8",
+            "decimals": 18,
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0x2DfD4dE5AE386Cd3f4fC8e2cb39240852E47F5E8/logo.png"
+        },
+        {
+            "chainId": 2222,
+            "address": "0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b",
+            "decimals": 18,
+            "name": "Wrapped Kava",
+            "symbol": "WKAVA",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b/logo.png"
+        },
+        {
+            "chainId": 2222,
+            "address": "0x919C1c267BC06a7039e03fcc2eF738525769109c",
+            "decimals": 6,
+            "name": "TetherUSDt",
+            "symbol": "USDt",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0x919C1c267BC06a7039e03fcc2eF738525769109c/logo.png"
+        },
+        {
+            "chainId": 2222,
+            "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
+            "decimals": 6,
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0xfa9343c3897324496a05fc75abed6bac29f8a40f/logo.png"
+        },
+        {
+            "chainId": 2222,
+            "address": "0xB9228F75facb15Cd23F04C44850dC0Cb51863a30",
+            "decimals": 18,
+            "name": "TUCKER",
+            "symbol": "TUCK",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0xB9228F75facb15Cd23F04C44850dC0Cb51863a30/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x90fE084F877C65e1b577c7b2eA64B8D8dd1AB278",
+            "decimals": 18,
+            "name": "Netswap",
+            "symbol": "NETT",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/22262/thumb/netswpa.PNG?1696521606"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE",
+            "decimals": 18,
+            "name": "Hera Finance",
+            "symbol": "HERA",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/24751/thumb/logo-icon-200x.png?1696523913"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xA4eE142e34d0676Edc2b760DD0016003D99a4ceC",
+            "decimals": 18,
+            "name": "Athena Finance",
+            "symbol": "ATH",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/30612/thumb/WNKvnddt_400x400.jpg?1696529481"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xFE540D6dbAD8C68928778AaF2Be828efA4b44Fa2",
+            "decimals": 18,
+            "name": "Aerarium Fi",
+            "symbol": "AERA",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/24852/thumb/aerarium-red.png?1696524012"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x7314Ef2CA509490f65F52CC8FC9E0675C66390b8",
+            "decimals": 18,
+            "name": "Aave v3 Metis",
+            "symbol": "AMETIS",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/32927/thumb/metis.png?1699826503"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x966B25D174bE6Ba703E0fF80c68BB6e167236BA2",
+            "decimals": 18,
+            "name": "Revenant",
+            "symbol": "GAMEFI",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/26005/thumb/icon.png?1696525082"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x4aAC94985cD83be30164DfE7e9AF7C054D7d2121",
+            "decimals": 18,
+            "name": "Hummus",
+            "symbol": "HUM",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/25116/thumb/6238d9732c84fbda3a99f518_hummus_ssymbol.png?1696524266"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x72c232D56542Ba082592DEE7C77b1C6CFA758BCD",
+            "decimals": 9,
+            "name": "Maia",
+            "symbol": "MAIA",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/22502/thumb/whiteicon.4a79cf8b.png?1696521826"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x69fdb77064ec5c84FA2F21072973eB28441F43F3",
+            "decimals": 18,
+            "name": "Tethys Finance",
+            "symbol": "TETHYS",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/22141/thumb/wjoZJvzA_400x400.jpg?1696521487"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xb27BbeaACA2C00d6258C3118BAB6b5B6975161c8",
+            "decimals": 18,
+            "name": "Hermes Protocol",
+            "symbol": "HERMES",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/24251/thumb/hermes.png?1696523436"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x1B33020A1DB9f1762F98635B9aC6fB4C36122649",
+            "decimals": 18,
+            "name": "Poseidon Finance",
+            "symbol": "PSDN",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/24225/thumb/poseidon-pp-TWITTER-PROFILE-PICTURE.png?1646923632"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x259EF6776648500D7F1A8aBA3651E38b1121e65e",
+            "decimals": 18,
+            "name": "Peak Finance Prometheus",
+            "symbol": "PRO",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/25031/thumb/8aa91569950f5011ca8a9.png?1696524183"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x186573b175aDF5801cF95Fb06b232ccAB123c6F4",
+            "decimals": 18,
+            "name": "Monkex",
+            "symbol": "MONKEX",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/28834/thumb/tokenlogo.png?1696527810"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x721532bC0dA5ffaeB0a6A45fB24271E8098629A7",
+            "decimals": 18,
+            "name": "BinaryDAO",
+            "symbol": "BYTE",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/24539/thumb/binarydao.PNG?1696523717"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+            "decimals": 18,
+            "name": "Metis",
+            "symbol": "METIS",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/15595/thumb/Metis_Black_Bg.png?1702968192"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x1affBc17938a25d245e1B7eC6f2fc949df8E9760",
+            "decimals": 18,
+            "name": "Paper",
+            "symbol": "PAPER",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/23510/thumb/v3PAPERLogo-01.png?1696522719"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x885C8AEC5867571582545F894A5906971dB9bf27",
+            "decimals": 6,
+            "name": "Aave v3 USDC",
+            "symbol": "AUSDC",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/32847/thumb/usdc_%281%29.png?1699619355"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x8acAe35059C9aE27709028fF6689386a44c09f3a",
+            "decimals": 18,
+            "name": "Aave v3 WETH",
+            "symbol": "AWETH",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/32882/thumb/WETH_%281%29.png?1699716492"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x85ABAdDcae06efee2CB5F75f33b6471759eFDE24",
+            "decimals": 18,
+            "name": "Aave v3 DAI",
+            "symbol": "ADAI",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/32886/thumb/dai.png?1699769446"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x4651B38e7ec14BB3db731369BFE5B08F2466Bd0A",
+            "decimals": 18,
+            "name": "Dai",
+            "symbol": "DAI",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/Badge_Dai.png?1696509996"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xa5B55ab1dAF0F8e1EFc0eB1931a957fd89B918f4",
+            "decimals": 18,
+            "name": "Wrapped Bitcoin",
+            "symbol": "WBTC",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/7598/thumb/wrapped_bitcoin_wbtc.png?1696507857"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xEA32A96608495e54156Ae48931A7c20f0dcc1a21",
+            "decimals": 6,
+            "name": "USDC",
+            "symbol": "USDC",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/usdc.png?1696506694"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x420000000000000000000000000000000000000A",
+            "decimals": 18,
+            "name": "WETH",
+            "symbol": "WETH",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/2518/thumb/weth.png?1696503332"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x5CE34d9abe4bF239cbc08B89287c87f4CD6d80B7",
+            "decimals": 18,
+            "name": "WOWswap",
+            "symbol": "WOW",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/14101/thumb/Group-423.png?1696513823"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xbB06DCA3AE6887fAbF931640f67cab3e3a16F4dC",
+            "decimals": 6,
+            "name": "Tether",
+            "symbol": "USDT",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether.png?1696501661"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xfe282Af5f9eB59C30A3f78789EEfFA704188bdD4",
+            "decimals": 18,
+            "name": "Relay Chain",
+            "symbol": "RELAY",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/17816/thumb/relay-logo-200.png?1696517336"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x3405A1bd46B85c5C029483FbECf2F3E611026e45",
+            "decimals": 18,
+            "name": "0x nodes",
+            "symbol": "BIOS",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/15600/thumb/BIOS_01.png?1696515235"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+            "decimals": 18,
+            "name": "MAI",
+            "symbol": "MIMATIC",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/15264/thumb/mimatic-red.png?1696514916"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x66673f0a3b5d99524bA76A558B93A9ca1386f4Cd",
+            "decimals": 18,
+            "name": "XCAD Network",
+            "symbol": "XCAD",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/15857/thumb/logoWhiteX.jpg?1696515473"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x1581929770bE3275a82068c1135b6dD59c5334Ed",
+            "decimals": 18,
+            "name": "Alium Finance",
+            "symbol": "ALM",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/15621/thumb/alium.png?1696515255"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xA31848AA61F784CDBb6F74260d224A4356295799",
+            "decimals": 18,
+            "name": "Dexpools",
+            "symbol": "DXP",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/25114/thumb/1_0w4P8R5heRFwRomJ4vPCWQ.png?1696524264"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x75cb093E4D61d2A2e65D8e0BBb01DE8d89b53481",
+            "decimals": 18,
+            "name": "Wrapped METIS",
+            "symbol": "WMETIS",
+            "tags": [],
+            "logoURI": "https://assets.coingecko.com/coins/images/15595/thumb/Metis_Black_Bg.png?1702968192"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
+            "decimals": 18,
+            "name": "Wagmi",
+            "symbol": "WAGMI",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/1088/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
+        }
+    ],
+    "timestamp": "2023-12-19T09:28:25.775Z"
 }
