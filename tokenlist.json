@@ -5,7 +5,7 @@
     "version": {
         "major": 2,
         "minor": 1,
-        "patch": 0
+        "patch": 1
     },
     "tokens": [
         {
@@ -444,8 +444,8 @@
             "chainId": 1088,
             "address": "0xEA32A96608495e54156Ae48931A7c20f0dcc1a21",
             "decimals": 6,
-            "name": "USDC",
-            "symbol": "USDC",
+            "name": "USDC Token",
+            "symbol": "m.USDC",
             "tags": [],
             "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/usdc.png?1696506694"
         },
@@ -471,8 +471,8 @@
             "chainId": 1088,
             "address": "0xbB06DCA3AE6887fAbF931640f67cab3e3a16F4dC",
             "decimals": 6,
-            "name": "Tether",
-            "symbol": "USDT",
+            "name": "USDT Token",
+            "symbol": "m.USDT",
             "tags": [],
             "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether.png?1696501661"
         },
