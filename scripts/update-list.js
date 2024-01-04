@@ -18,7 +18,7 @@ const lists = [
     "https://tokens.coingecko.com/metis-andromeda/all.json"
 ]
 
-const downloadImage = false;
+const downloadImage = true;
 
 async function bootstrap(){
     const defaultList = JSON.parse(readFileSync(join(__dirname, '../tokenlist.json')));
@@ -36,37 +36,55 @@ async function bootstrap(){
                         const incomingTokenAddress = getAddress(token.address);
                         const isExist = defaultList.tokens.find(({ chainId, address }) => chainId === token.chainId && address === incomingTokenAddress);
                         if(!isExist){
-                            const chainFolderExist = existsSync(join(__dirname, `../logos/${token.chainId}`));
-                            if(!chainFolderExist){
-                                mkdirSync(join(__dirname, `../logos/${token.chainId}`));
-                            }
-                            console.log(`new token incoming ${token.chainId} | ${incomingTokenAddress} | ${token.symbol}`);
-                            if(downloadImage){
-                                const logoFolderExist = existsSync(join(__dirname, `../logos/${token.chainId}/${incomingTokenAddress}/`));
-                                if(!logoFolderExist){
-                                    mkdirSync(join(__dirname, `../logos/${token.chainId}/${incomingTokenAddress}/`));
+                            try{
+                                const chainFolderExist = existsSync(join(__dirname, `../logos/${token.chainId}`));
+                                if(!chainFolderExist){
+                                    mkdirSync(join(__dirname, `../logos/${token.chainId}`));
                                 }
-                                const response = await axios.get(token.logoURI, { responseType: "arraybuffer" });
-                                writeFileSync(join(__dirname, `../logos/${token.chainId}/${incomingTokenAddress}/logo.png`), response.data);
-                            }
+                                console.log(`new token incoming ${token.chainId} | ${incomingTokenAddress} | ${token.symbol}`);
+                                if(downloadImage){
+                                    const logoFolderExist = existsSync(join(__dirname, `../logos/${token.chainId}/${incomingTokenAddress}/`));
+                                    if(!logoFolderExist){
+                                        mkdirSync(join(__dirname, `../logos/${token.chainId}/${incomingTokenAddress}/`));
+                                    }
+                                    const response = await axios.get(token.logoURI, { responseType: "arraybuffer" });
+                                    writeFileSync(join(__dirname, `../logos/${token.chainId}/${incomingTokenAddress}/logo.png`), response.data);
+                                }
 
-                            defaultList.tokens.push({
-                                chainId: token.chainId,
-                                address: incomingTokenAddress,
-                                decimals: token.decimals,
-                                name: token.name,
-                                symbol: token.symbol,
-                                tags: [],
-                                logoURI: downloadImage ? `https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/${token.chainId}/${incomingTokenAddress}/logo.png`: token.logoURI
-                            });
+                                defaultList.tokens.push({
+                                    chainId: token.chainId,
+                                    address: incomingTokenAddress,
+                                    decimals: token.decimals,
+                                    name: token.name,
+                                    symbol: token.symbol,
+                                    tags: [],
+                                    logoURI: downloadImage ? `https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/${token.chainId}/${incomingTokenAddress}/logo.png`: token.logoURI
+                                });
+                                count += 1;
+                            } catch(err){
+                                console.log(`can\'t added token list ${token.chainId} | ${incomingTokenAddress} | ${token.symbol} | ${token.logoURI}`);
+
+                                defaultList.tokens.push({
+                                    chainId: token.chainId,
+                                    address: incomingTokenAddress,
+                                    decimals: token.decimals,
+                                    name: token.name,
+                                    symbol: token.symbol,
+                                    tags: [],
+                                    logoURI: token.logoURI
+                                });
+                                count += 1;
+                            }
                         }
                     }
                 }
             }
         } catch(err){
-            console.log(err);
+            console.log(`can\'t load list ${url}`);
         }
     }
+
+    defaultList.tokens = defaultList.tokens.sort((a, b) => a.chainId > b.chainId ? 1 : -1)
 
     console.log(`done! | new tokens ${count}`);
     writeFileSync(join(__dirname, '../tokenlist.json'), JSON.stringify(defaultList, null, 4));

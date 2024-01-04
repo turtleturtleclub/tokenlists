@@ -23,7 +23,7 @@ async function bootstrap(){
 
                 defaultList.tokens[i].logoURI = `https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/${token.chainId}/${token.address}/logo.png`;
             } catch(err) {
-                console.log(err)
+                console.log(`can\'t load logo ${token.logoURI}`)
             }
         }
     }
