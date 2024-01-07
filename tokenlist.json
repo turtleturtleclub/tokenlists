@@ -3,7 +3,7 @@
     "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91/logo.png",
     "keywords": [],
     "version": {
-        "major": 2,
+        "major": 3,
         "minor": 2,
         "patch": 2
     },
@@ -88891,15 +88891,6 @@
             "symbol": "BYTE",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/1088/0x721532bC0dA5ffaeB0a6A45fB24271E8098629A7/logo.png"
-        },
-        {
-            "chainId": 1088,
-            "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
-            "decimals": 18,
-            "name": "Metis",
-            "symbol": "METIS",
-            "tags": [],
-            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/1088/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000/logo.png"
         },
         {
             "chainId": 1088,
