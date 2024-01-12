@@ -3,7 +3,7 @@
     "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91/logo.png",
     "keywords": [],
     "version": {
-        "major": 3,
+        "major": 4,
         "minor": 3,
         "patch": 2
     },
@@ -871,15 +871,6 @@
             "symbol": "ETH+",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/1/0xE72B141DF173b999AE7c1aDcbF60Cc9833Ce56a8/logo.png"
-        },
-        {
-            "chainId": 1,
-            "address": "0x0000000000000000000000000000000000000000",
-            "decimals": 18,
-            "name": "Ether",
-            "symbol": "ETH",
-            "tags": [],
-            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/1/0x0000000000000000000000000000000000000000/logo.png"
         },
         {
             "chainId": 1,
@@ -92520,5 +92511,5 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/43114/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
         }
     ],
-    "timestamp": "2024-01-12T10:45:56.884Z"
+    "timestamp": "2024-01-12T12:23:11.475Z"
 }
