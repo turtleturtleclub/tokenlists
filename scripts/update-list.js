@@ -34,7 +34,7 @@ async function bootstrap(){
                         if(!supportedChains.includes(token.chainId)) continue;
 
                         const incomingTokenAddress = getAddress(token.address);
-                        const isExist = defaultList.tokens.find(({ chainId, address }) => chainId === token.chainId && address === incomingTokenAddress);
+                        const isExist = defaultList.tokens.find(({ chainId, address }) => chainId === token.chainId && address.toLowerCase() === incomingTokenAddress.toLowerCase());
                         if(!isExist){
                             try{
                                 const chainFolderExist = existsSync(join(__dirname, `../logos/${token.chainId}`));
