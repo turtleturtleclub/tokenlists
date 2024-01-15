@@ -4,7 +4,7 @@
     "keywords": [],
     "version": {
         "major": 4,
-        "minor": 3,
+        "minor": 4,
         "patch": 2
     },
     "tokens": [
@@ -92509,7 +92509,16 @@
             "symbol": "WAGMI",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/43114/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x6B1D7Dc41eA3Cb68a72332b38aC0FD1efe73382e",
+            "decimals": 18,
+            "name": "Manatea The Metis Manatee",
+            "symbol": "MANAT",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/1088/0x6B1D7Dc41eA3Cb68a72332b38aC0FD1efe73382e/logo.png"
         }
     ],
-    "timestamp": "2024-01-12T12:23:11.475Z"
+    "timestamp": "2024-01-15T10:47:55.437Z"
 }
