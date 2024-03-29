@@ -4,7 +4,7 @@
     "keywords": [],
     "version": {
         "major": 5,
-        "minor": 4,
+        "minor": 5,
         "patch": 2
     },
     "tokens": [
@@ -871,6 +871,15 @@
             "symbol": "MANAT",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/1088/0x6B1D7Dc41eA3Cb68a72332b38aC0FD1efe73382e/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xdf020cBd1897133978C7FcDF04B07E69d8934Efc",
+            "decimals": 18,
+            "name": "ZKE",
+            "symbol": "ZKE",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/1088/0xdf020cBd1897133978C7FcDF04B07E69d8934Efc/logo.png"
         }
     ],
     "timestamp": "2024-01-16T23:24:14.497Z"
