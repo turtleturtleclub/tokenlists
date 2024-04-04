@@ -3,7 +3,7 @@
     "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91/logo.png",
     "keywords": [],
     "version": {
-        "major": 5,
+        "major": 6,
         "minor": 5,
         "patch": 2
     },
@@ -331,15 +331,6 @@
             "symbol": "WETH",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/324/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91/logo.png"
-        },
-        {
-            "chainId": 1088,
-            "address": "0x242C1f6E86943a0e0D8e7634479CE7856d6f9583",
-            "decimals": 18,
-            "name": "Vanilla Cookie",
-            "symbol": "VC",
-            "tags": [],
-            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/1088/0x242C1f6E86943a0e0D8e7634479CE7856d6f9583/logo.png"
         },
         {
             "chainId": 1088,
@@ -882,5 +873,5 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/1088/0xdf020cBd1897133978C7FcDF04B07E69d8934Efc/logo.png"
         }
     ],
-    "timestamp": "2024-03-29T09:45:28.904Z"
+    "timestamp": "2024-04-04T12:26:04.016Z"
 }
