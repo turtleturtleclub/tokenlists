@@ -3,7 +3,7 @@
     "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91/logo.png",
     "keywords": [],
     "version": {
-        "major": 6,
+        "major": 7,
         "minor": 6,
         "patch": 2
     },
@@ -911,12 +911,12 @@
         {
             "chainId": 59902,
             "address": "0x0e0Ce4D450c705F8a0B6Dd9d5123e3df2787D16B",
-            "decimals": 6,
+            "decimals": 18,
             "name": "tDAI",
             "symbol": "tDAI",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/59902/0x0e0Ce4D450c705F8a0B6Dd9d5123e3df2787D16B/logo.png"
         }
     ],
-    "timestamp": "2024-04-17T12:47:33.600Z"
+    "timestamp": "2024-04-17T20:07:40.717Z"
 }
