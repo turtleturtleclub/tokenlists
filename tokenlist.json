@@ -4,7 +4,7 @@
     "keywords": [],
     "version": {
         "major": 7,
-        "minor": 7,
+        "minor": 8,
         "patch": 2
     },
     "tokens": [
@@ -961,7 +961,43 @@
             "symbol": "DAI",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/810180/0xF573fA04A73d5AC442F3DEa8741317fEaA3cDeab/logo.png"
+        },
+        {
+            "chainId": 8822,
+            "address": "0x160345fC359604fC6e70E3c5fAcbdE5F7A9342d8",
+            "decimals": 18,
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/8822/0x160345fC359604fC6e70E3c5fAcbdE5F7A9342d8/logo.png"
+        },
+        {
+            "chainId": 8822,
+            "address": "0xC1B8045A6ef2934Cf0f78B0dbD489969Fa9Be7E4",
+            "decimals": 6,
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/8822/0xC1B8045A6ef2934Cf0f78B0dbD489969Fa9Be7E4/logo.png"
+        },
+        {
+            "chainId": 8822,
+            "address": "0xFbDa5F676cB37624f28265A144A48B0d6e87d3b6",
+            "decimals": 6,
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/8822/0xFbDa5F676cB37624f28265A144A48B0d6e87d3b6/logo.png"
+        },
+        {
+            "chainId": 8822,
+            "address": "0x6e47f8d48a01b44DF3fFF35d258A10A3AEdC114c",
+            "decimals": 18,
+            "name": "Wrapped Iota",
+            "symbol": "wIOTA",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/8822/0x6e47f8d48a01b44DF3fFF35d258A10A3AEdC114c/logo.png"
         }
     ],
-    "timestamp": "2024-05-07T12:35:29.939Z"
+    "timestamp": "2024-06-17T11:26:12.586Z"
 }
