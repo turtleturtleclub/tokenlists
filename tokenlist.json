@@ -4,7 +4,7 @@
     "keywords": [],
     "version": {
         "major": 7,
-        "minor": 9,
+        "minor": 10,
         "patch": 2
     },
     "tokens": [
@@ -999,6 +999,15 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/8822/0x6e47f8d48a01b44DF3fFF35d258A10A3AEdC114c/logo.png"
         },
         {
+            "chainId": 8822,
+            "address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
+            "decimals": 18,
+            "name": "Wagmi",
+            "symbol": "WAGMI",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/8822/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
+        },
+        {
             "chainId": 8453,
             "address": "0x4200000000000000000000000000000000000006",
             "decimals": 18,
@@ -1044,5 +1053,5 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/8453/0x4a3a6dd60a34bb2aba60d73b4c88315e9ceb6a3d/logo.png"
         }
     ],
-    "timestamp": "2024-06-21T10:37:55.518Z"
+    "timestamp": "2024-07-12T09:40:35.435Z"
 }
