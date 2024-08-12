@@ -4,7 +4,7 @@
     "keywords": [],
     "version": {
         "major": 7,
-        "minor": 10,
+        "minor": 11,
         "patch": 2
     },
     "tokens": [
@@ -1008,6 +1008,15 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/8822/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
         },
         {
+            "chainId": 8822,
+            "address": "0xF5755e48B6F2F06F8ea904bdA26177CB3ca06Ff0",
+            "decimals": 18,
+            "name": "Iolend",
+            "symbol": "IOL",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/8822/0xF5755e48B6F2F06F8ea904bdA26177CB3ca06Ff0/logo.png"
+        },
+        {
             "chainId": 8453,
             "address": "0x4200000000000000000000000000000000000006",
             "decimals": 18,
@@ -1053,5 +1062,5 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/8453/0x4a3a6dd60a34bb2aba60d73b4c88315e9ceb6a3d/logo.png"
         }
     ],
-    "timestamp": "2024-07-12T09:40:35.435Z"
+    "timestamp": "2024-08-12T07:57:43.302Z"
 }
