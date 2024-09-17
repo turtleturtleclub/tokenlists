@@ -4,7 +4,7 @@
     "keywords": [],
     "version": {
         "major": 7,
-        "minor": 11,
+        "minor": 12,
         "patch": 2
     },
     "tokens": [
@@ -1017,6 +1017,15 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/8822/0xF5755e48B6F2F06F8ea904bdA26177CB3ca06Ff0/logo.png"
         },
         {
+            "chainId": 8822,
+            "address": "0xBc51E6807F31C3E4E21Df7fB8e4F94a500D27E8b",
+            "decimals": 18,
+            "name": "Cyberperp",
+            "symbol": "CYB",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/8822/0xBc51E6807F31C3E4E21Df7fB8e4F94a500D27E8b/logo.png"
+        },
+        {
             "chainId": 8453,
             "address": "0x4200000000000000000000000000000000000006",
             "decimals": 18,
@@ -1062,5 +1071,5 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/8453/0x4a3a6dd60a34bb2aba60d73b4c88315e9ceb6a3d/logo.png"
         }
     ],
-    "timestamp": "2024-08-12T07:57:43.302Z"
+    "timestamp": "2024-09-17T11:38:07.907Z"
 }
