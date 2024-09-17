@@ -4,7 +4,7 @@
     "keywords": [],
     "version": {
         "major": 7,
-        "minor": 12,
+        "minor": 13,
         "patch": 2
     },
     "tokens": [
@@ -1069,7 +1069,43 @@
             "symbol": "MIM",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/8453/0x4a3a6dd60a34bb2aba60d73b4c88315e9ceb6a3d/logo.png"
+        },
+        {
+            "chainId": 64165,
+            "address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
+            "decimals": 18,
+            "name": "Wrapped S",
+            "symbol": "WS",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/64165/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
+        },
+        {
+            "chainId": 64165,
+            "address": "0x8112E18a34b63964388a3B2984037d6a2EFE5B8A",
+            "decimals": 18,
+            "name": "tWagmi",
+            "symbol": "tWAGMI",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/64165/0x8112E18a34b63964388a3B2984037d6a2EFE5B8A/logo.png"
+        },
+        {
+            "chainId": 64165,
+            "address": "0x2dA5DdBeC63dfd93112AedFa44F880927AA5Ae41",
+            "decimals": 6,
+            "name": "tUSDT",
+            "symbol": "tUSDT",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/64165/0x2dA5DdBeC63dfd93112AedFa44F880927AA5Ae41/logo.png"
+        },
+        {
+            "chainId": 64165,
+            "address": "0x0e0Ce4D450c705F8a0B6Dd9d5123e3df2787D16B",
+            "decimals": 18,
+            "name": "tDAI",
+            "symbol": "tDAI",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/64165/0x0e0Ce4D450c705F8a0B6Dd9d5123e3df2787D16B/logo.png"
         }
     ],
-    "timestamp": "2024-09-17T11:38:07.907Z"
+    "timestamp": "2024-09-17T14:59:50.865Z"
 }
