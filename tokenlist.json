@@ -4,7 +4,7 @@
     "keywords": [],
     "version": {
         "major": 7,
-        "minor": 14,
+        "minor": 15,
         "patch": 2
     },
     "tokens": [
@@ -783,6 +783,15 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0x25e9171C98Fc1924Fa9415CF50750274F0664764/logo.png"
         },
         {
+            "chainId": 2222,
+            "address": "0x890f0fB78A7A24392450B2cb294B980683F11e76",
+            "decimals": 18,
+            "name": "KAVADOGE",
+            "symbol": "KDOG",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0x890f0fB78A7A24392450B2cb294B980683F11e76/logo.png"
+        },
+        {
             "chainId": 42161,
             "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
             "decimals": 18,
@@ -1116,5 +1125,5 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/64165/0x0e0Ce4D450c705F8a0B6Dd9d5123e3df2787D16B/logo.png"
         }
     ],
-    "timestamp": "2024-11-14T08:34:24.747Z"
+    "timestamp": "2024-11-21T08:38:02.160Z"
 }
