@@ -3,7 +3,7 @@
     "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91/logo.png",
     "keywords": [],
     "version": {
-        "major": 7,
+        "major": 8,
         "minor": 15,
         "patch": 2
     },
@@ -776,7 +776,7 @@
         {
             "chainId": 2222,
             "address": "0x25e9171C98Fc1924Fa9415CF50750274F0664764",
-            "decimals": 18,
+            "decimals": 6,
             "name": "HARD",
             "symbol": "HARD",
             "tags": [],
@@ -1125,5 +1125,5 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/64165/0x0e0Ce4D450c705F8a0B6Dd9d5123e3df2787D16B/logo.png"
         }
     ],
-    "timestamp": "2024-11-21T08:38:02.160Z"
+    "timestamp": "2024-12-10T18:29:29.326Z"
 }
