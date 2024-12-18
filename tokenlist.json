@@ -4,7 +4,7 @@
     "keywords": [],
     "version": {
         "major": 9,
-        "minor": 15,
+        "minor": 16,
         "patch": 2
     },
     "tokens": [
@@ -1114,7 +1114,25 @@
             "symbol": "tUSDT",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/57054/0x7F7210EC3011213CE8f3665613AD0705Fb973a81/logo.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38",
+            "decimals": 18,
+            "name": "Wrapped S",
+            "symbol": "WS",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38/logo.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x0e0Ce4D450c705F8a0B6Dd9d5123e3df2787D16B",
+            "decimals": 18,
+            "name": "Wagmi",
+            "symbol": "WAGMI",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x0e0Ce4D450c705F8a0B6Dd9d5123e3df2787D16B/logo.png"
         }
     ],
-    "timestamp": "2024-12-11T15:59:14.131Z"
+    "timestamp": "2024-12-18T16:48:12.232Z"
 }
