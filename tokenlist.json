@@ -4,7 +4,7 @@
     "keywords": [],
     "version": {
         "major": 10,
-        "minor": 16,
+        "minor": 17,
         "patch": 2
     },
     "tokens": [
@@ -1078,7 +1078,16 @@
             "symbol": "USDC.e",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x29219dd400f2Bf60E5a23d13Be72B486D4038894/logo.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+            "decimals": 18,
+            "name": "HeyAnon",
+            "symbol": "Anon",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C/logo.png"
         }
     ],
-    "timestamp": "2024-12-21T11:08:21.467Z"
+    "timestamp": "2024-12-21T12:01:29.517Z"
 }
