@@ -3,7 +3,7 @@
     "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91/logo.png",
     "keywords": [],
     "version": {
-        "major": 10,
+        "major": 11,
         "minor": 18,
         "patch": 2
     },
@@ -1063,12 +1063,12 @@
         },
         {
             "chainId": 146,
-            "address": "0x309C92261178fA0CF748A855e90Ae73FDb79EBc7",
+            "address": "0x50c42dEAcD8Fc9773493ED674b675bE577f2634b",
             "decimals": 18,
             "name": "Wrapped Ether on Sonic",
             "symbol": "WETH",
             "tags": [],
-            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x309C92261178fA0CF748A855e90Ae73FDb79EBc7/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x50c42dEAcD8Fc9773493ED674b675bE577f2634b/logo.png"
         },
         {
             "chainId": 146,
@@ -1098,5 +1098,5 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x851fee47c6588506277c439a7526ae58cd1d15e5/logo.png"
         }
     ],
-    "timestamp": "2024-12-23T13:20:38.918Z"
+    "timestamp": "2024-12-27T10:14:51.336Z"
 }
