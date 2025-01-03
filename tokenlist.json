@@ -4,7 +4,7 @@
     "keywords": [],
     "version": {
         "major": 11,
-        "minor": 18,
+        "minor": 19,
         "patch": 2
     },
     "tokens": [
@@ -1096,7 +1096,16 @@
             "symbol": "ODIN",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x851fee47c6588506277c439a7526ae58cd1d15e5/logo.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x9fDbC3f8Abc05Fa8f3Ad3C17D2F806c1230c4564",
+            "decimals": 18,
+            "name": "GOGGLES",
+            "symbol": "GOGLZ",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x9fDbC3f8Abc05Fa8f3Ad3C17D2F806c1230c4564/logo.png"
         }
     ],
-    "timestamp": "2024-12-27T10:14:51.336Z"
+    "timestamp": "2025-01-03T12:12:06.762Z"
 }
