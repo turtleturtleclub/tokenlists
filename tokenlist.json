@@ -4,7 +4,7 @@
     "keywords": [],
     "version": {
         "major": 11,
-        "minor": 19,
+        "minor": 20,
         "patch": 2
     },
     "tokens": [
@@ -1105,7 +1105,16 @@
             "symbol": "GOGLZ",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x9fDbC3f8Abc05Fa8f3Ad3C17D2F806c1230c4564/logo.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x7F883dA3B0d77978075f7C9c03E1B9F461CA1B8d",
+            "decimals": 9,
+            "name": "Muttski",
+            "symbol": "WOOF",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x7F883dA3B0d77978075f7C9c03E1B9F461CA1B8d/logo.png"
         }
     ],
-    "timestamp": "2025-01-03T12:12:06.762Z"
+    "timestamp": "2025-01-06T09:58:45.504Z"
 }
