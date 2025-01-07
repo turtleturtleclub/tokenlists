@@ -1118,7 +1118,7 @@
         {
             "chainId": 146,
             "address": "0x051b94B2F176AEa8B1058D3d4173bcEEC2a193BC",
-            "decimals": 9,
+            "decimals": 18,
             "name": "SuperSaiyanSonic",
             "symbol": "SSS",
             "tags": [],
