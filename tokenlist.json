@@ -1114,7 +1114,16 @@
             "symbol": "WOOF",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x7F883dA3B0d77978075f7C9c03E1B9F461CA1B8d/logo.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x051b94B2F176AEa8B1058D3d4173bcEEC2a193BC",
+            "decimals": 9,
+            "name": "SuperSaiyanSonic",
+            "symbol": "SSS",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x051b94B2F176AEa8B1058D3d4173bcEEC2a193BC/logo.png"
         }
     ],
-    "timestamp": "2025-01-06T09:58:45.504Z"
+    "timestamp": "2025-01-07T16:59:17.421Z"
 }
