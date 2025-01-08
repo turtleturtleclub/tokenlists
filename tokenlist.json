@@ -4,7 +4,7 @@
     "keywords": [],
     "version": {
         "major": 11,
-        "minor": 20,
+        "minor": 21,
         "patch": 2
     },
     "tokens": [
@@ -1125,5 +1125,5 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x051b94B2F176AEa8B1058D3d4173bcEEC2a193BC/logo.png"
         }
     ],
-    "timestamp": "2025-01-07T16:59:17.421Z"
+    "timestamp": "2025-01-08T14:28:02.889Z"
 }
