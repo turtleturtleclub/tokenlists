@@ -1123,7 +1123,16 @@
             "symbol": "SSS",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x051b94B2F176AEa8B1058D3d4173bcEEC2a193BC/logo.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x068e9e009fda970fa953e1f6a43d982ca991f4ba",
+            "decimals": 18,
+            "name": "Whale Ecosystem",
+            "symbol": "WHALE",
+            "tags": ["DeFAI"],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x068e9e009fda970fa953e1f6a43d982ca991f4ba/logo.png"
         }
     ],
-    "timestamp": "2025-01-08T14:28:02.889Z"
+    "timestamp": "2025-01-11T04:13:25.889Z"
 }
